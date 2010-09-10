@@ -2,7 +2,7 @@ require 'cgi'
 require 'logger'
 require 'open-uri'
 require 'rubygems'
-require 'json'
+require 'json/ext'
 require 'yaml'
 require 'zlib'
 
